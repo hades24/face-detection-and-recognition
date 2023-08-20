@@ -1,0 +1,3 @@
+import os
+
+haarcascade = os.path.join(os.path.dirname(__file__), "")
